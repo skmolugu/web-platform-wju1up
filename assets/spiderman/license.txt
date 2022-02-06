@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Amazing Spiderman 2 (Andrew Garfield)
+* source:	https://sketchfab.com/3d-models/the-amazing-spiderman-2-andrew-garfield-d32b039bbcc24d5198023c897d12e1a9
+* author:	EWTube0 (https://sketchfab.com/EWTube0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Amazing Spiderman 2 (Andrew Garfield)" (https://sketchfab.com/3d-models/the-amazing-spiderman-2-andrew-garfield-d32b039bbcc24d5198023c897d12e1a9) by EWTube0 (https://sketchfab.com/EWTube0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
